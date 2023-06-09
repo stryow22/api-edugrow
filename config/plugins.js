@@ -21,7 +21,7 @@ module.exports = ({ env }) => ({
         contact: {
           name: "TEAM",
           email: "contact-email@something.io",
-          url: "mywebsite.io",
+          url: "mywebsitex.io",
         },
         license: {
           name: "Apache 2.0",

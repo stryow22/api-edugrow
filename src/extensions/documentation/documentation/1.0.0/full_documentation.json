@@ -8,13 +8,13 @@
     "contact": {
       "name": "TEAM",
       "email": "contact-email@something.io",
-      "url": "mywebsite.io"
+      "url": "mywebsitex.io"
     },
     "license": {
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-06-09T04:28:00.104Z"
+    "x-generation-date": "2023-06-09T06:19:03.125Z"
   },
   "x-strapi-config": {
     "plugins": [
